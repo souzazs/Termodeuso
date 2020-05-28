@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TermosDeUso</string>
+    <string name="tela_de_cadastro">Tela de Cadastro</string>
+    <string name="Nome">Nome</string>
+    <string name="CPF">CPF</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Email">Email</string>
+    <string name="digite_seu_nome">Digte seu Nome</string>
+    <string name="digite_seu_cpf">Digte seu CPF</string>
+    <string name="digite_seu_telefone">Digte seu Telefone</string>
+    <string name="digite_seu_Email">Digte seu E-Mail</string>
+
+</resources>
